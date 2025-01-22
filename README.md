@@ -3,12 +3,12 @@ Branch only for Showcase in Portfolio
 
 
 # Webshop Based Projects: 
-name: https://lifeisnatural.eu
+name: https://lifeisnatural.eu, https://lifeisnatural.hu
 # Discription:
 - Local shop in Budapest needed a webshop presence. 
-- Its built on woocoomerce cms with costume backend built from the ground up API access to Webshippy to monitor and update storage based on available products.
-- plus Paying integration with Barion and invoice system such as Billingó all automated when a purchase is made.
-- 3 versions based on Languages ( HU, GER, ENG)
+- Its built on react & nextjs  with costume backend built from the ground up using medusa.js API access to Webshippy to monitor and update storage based on available products.
+- plus Paying integration with stripe and invoice system such as Billingó all automated when a purchase is made.
+- 2 versions based on Languages ( HU ENG)
 
 
 # Personal landing pages for companies and individuals:
